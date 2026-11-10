@@ -1,6 +1,6 @@
 # 3s Design
 
-The static portfolio includes 129 projects and their galleries. GitHub Pages serves the `docs/` folder from `main`.
+The static portfolio includes 129 projects and their galleries. A GitHub Actions workflow publishes `docs/` to GitHub Pages on pushes to `main`.
 
 - `docs/project/` contains the project pages.
 - `docs/assets/` contains the styles, scripts, fonts, and published media.
